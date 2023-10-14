@@ -36,16 +36,24 @@ function Get-Signature {
 
 Clear-Host
 
+
+
+
+
+
+
+
+
 Write-Host ""
 Write-Host ""
-Write-Host -ForegroundColor black "██╗   ██╗██╗███████╗██╗ ██████╗ ███╗   ██╗    ██████╗  █████╗ ███╗   ███╗";
-Write-Host -ForegroundColor black "██║   ██║██║██╔════╝██║██╔═══██╗████╗  ██║    ██╔══██╗██╔══██╗████╗ ████║";
-Write-Host -ForegroundColor black "██║   ██║██║███████╗██║██║   ██║██╔██╗ ██║    ██████╔╝███████║██╔████╔██║";
-Write-Host -ForegroundColor black "╚██╗ ██╔╝██║╚════██║██║██║   ██║██║╚██╗██║    ██╔══██╗██╔══██║██║╚██╔╝██║";
-Write-Host -ForegroundColor black " ╚████╔╝ ██║███████║██║╚██████╔╝██║ ╚████║    ██████╔╝██║  ██║██║ ╚═╝ ██║";
-Write-Host -ForegroundColor black "  ╚═══╝  ╚═╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝";
+Write-Host -ForegroundColor black "░██████╗░░█████╗░██████╗░██████╗░██╗  ██████╗░░█████╗░███╗░░░███╗";
+Write-Host -ForegroundColor black "██╔════╝░██╔══██╗██╔══██╗██╔══██╗██║  ██╔══██╗██╔══██╗████╗░████║";
+Write-Host -ForegroundColor black "██║░░██╗░███████║██████╦╝██████╔╝██║  ██████╦╝███████║██╔████╔██║";
+Write-Host -ForegroundColor black "██║░░╚██╗██╔══██║██╔══██╗██╔══██╗██║  ██╔══██╗██╔══██║██║╚██╔╝██║";
+Write-Host -ForegroundColor black "╚██████╔╝██║░░██║██████╦╝██║░░██║██║  ██████╦╝██║░░██║██║░╚═╝░██║";
+Write-Host -ForegroundColor black "░╚═════╝░╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝  ╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝";
 Write-Host ""
-Write-Host -ForegroundColor black "Created by gabri.530 -discord.gg/visionn"
+Write-Host -ForegroundColor black "Created by 17gabri"
 Write-Host ""
 
 function Test-Admin {
